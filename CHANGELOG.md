@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.8]
+
+- Upgraded axe-core JS version to v4.12.1. You may see the number of violations change as a result, as new axe-core versions sometimes add new rules and update existing ones.
+
 ## [0.1.7] - November 30, 2025
 
 - Fixed issue with passing custom options to `Axe.run()` method, which caused options to be ignored.
